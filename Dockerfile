@@ -7,6 +7,7 @@ EXPOSE 9222
 
 ENTRYPOINT ["chromium-browser"]
 
+#"--no-sandbox", \
 CMD [ \
   "--allow-insecure-localhost", \
   "--disable-background-networking", \
@@ -19,7 +20,6 @@ CMD [ \
   "--metrics-recording-only", \
   "--mute-audio", \
   "--no-first-run", \
-  "--no-sandbox", \
   "--safebrowsing-disable-auto-update", \
 \
   "--headless", \
