@@ -1,13 +1,8 @@
 # chrome-headless-alpine
-[![Docker Stars](https://img.shields.io/docker/stars/xinix00/chrome-headless-alpine
-.svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine
-/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/xinix00/chrome-headless-alpine
-.svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine
-/)
-[![Docker build](https://img.shields.io/docker/automated/xinix00/chrome-headless-alpine
-svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine
-/)
+
+[![Docker Stars](https://img.shields.io/docker/stars/xinix00/chrome-headless-alpine.svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xinix00/chrome-headless-alpine.svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine/)
+[![Docker build](https://img.shields.io/docker/automated/xinix00/chrome-headless-alpine.svg?style=flat)](https://hub.docker.com/r/xinix00/chrome-headless-alpine/)
 
 # Supported tags and respective `Dockerfile` links
 |Version|Build|Tags|Base|Git|
